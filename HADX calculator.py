@@ -88,7 +88,7 @@ button0.grid(row=4, column=0)
 
 b_plus=Button(root, text="+", padx=39, pady=20, command=button_plus)
 b_ravno=Button(root, text="=", padx=89, pady=20, command=button_ravno)
-b_clear=Button(root, text="Удалить", padx=70, pady=20, command=button_clear)
+b_clear=Button(root, text="Delete", padx=70, pady=20, command=button_clear)
 b_minus=Button(root, text="-", padx=40, pady=20, command=button_minus)
 b_umn=Button(root, text="*", padx=40, pady=20, command=button_umn)
 b_del=Button(root, text="/", padx=40, pady=20, command=button_del)
